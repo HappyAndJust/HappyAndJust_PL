@@ -1,0 +1,32 @@
+name: Test
+version: 1.0
+main: test.Main
+
+commands:  
+  loop:
+  
+  progress:
+  
+  rmv:
+  
+  testitem:
+    usage: "/testitem [ItemType] [Rarity] [Damage] [Strength] [Crit Chance] [Crit Damage] [IsEnchanted] [Name]"
+  
+  spawncustommob:
+    usage: "/spawncustommob [Custom Entity Name]"
+  
+  raritylist:
+  
+  check:
+  
+  setplayer:
+    usage: "/setplayer [Combat Level] [Name]"
+    
+  createnpc:
+  
+  checkitem:
+  
+  gui:
+  
+  testarmor:
+    usage: "/testarmor [ItemType] [Rarity] [Strength] [Crit Chance] [Crit Damage] [Health] [Defense] [IsEnchanted] [Name]"
